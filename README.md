@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m working in Java and spring boot.
+- 🌱 My name is Akash Jain, Software Engineer based out of India. My passion for software development is immense and it also reflects in my work. I am Currently working for Ezetap which provides financial supoprt for its clients. You can reach out to me by any below means. Thanks for reading.
 - 📫 How to reach me: akashmjain.official@gmail.com
 <!--
 **akashmjain/akashmjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
