@@ -13,7 +13,8 @@ revolving around the software domain and am always trying my best to learn new t
 - https://github.com/akashmjain/MB-ZoomClone-Team
 - https://github.com/akashmjain/MB-IntroToScalingBlog
 
-- 📫 How to reach me: akashmjain.official@gmail.com
+
+📫 How to reach me: akashmjain.official@gmail.com
 <!--
 **akashmjain/akashmjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
